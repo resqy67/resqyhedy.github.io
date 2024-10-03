@@ -6,7 +6,7 @@
       <p class="text-blue-100 text-lg my-2">Balikpapan - East Borneo, Indonesia</p>
       <div class="flex mt-6">
         <a
-          href="https://www.linkedin.com/in/resqy-hedy-kurniawan-0b1b3b1b1/"
+          href="https://www.linkedin.com/in/resqy-hedy-kurniawan-58922116a/"
           target="_blank"
           rel="noopener noreferrer"
           class="w-8 h-8 mr-6 hover:scale-125 transition-transform hover:opacity-80"
